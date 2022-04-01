@@ -70,6 +70,12 @@ body{
  }
 }
 
+@media (max-width: 500px){
+ #hero h1{
+  font-size: 43px;
+ }
+}
+
 
 /* Bottom Section */
 #featured-services{
